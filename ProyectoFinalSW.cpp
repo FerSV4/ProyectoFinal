@@ -63,6 +63,7 @@ int main() {
     }
     
     cout << "Lo siento, has perdido. El número era " << numero_secreto << "." << endl;
+    cout << "Gracias por  jugar cambada!" <<endl;
     system("pause");
     return 0;
 }
